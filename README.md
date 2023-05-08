@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-👨🏻‍💻 I am experience.NET Software Developer apassionated about Machine Learning.<br>🌱 Currently working on projects involving Azure with .NET & Airflow
+👨🏻‍💻 I am experienced .NET Software Developer, passionated about Machine Learning.<br>🌱 Currently working on projects involving Azure with .NET & Airflow
 
 
 ## 🌐 Socials:
