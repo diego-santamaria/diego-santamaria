@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-👨🏻‍💻 I am Software Developer with experience in .NET and apassionated about Machine Learning.<br>🌱 Currently working on projects involving Azure, Databricks & Airflow
+# About Me:
+👨🏻‍💻 I am experience.NET Software Developer apassionated about Machine Learning.<br>🌱 Currently working on projects involving Azure with .NET & Airflow
 
 
 ## 🌐 Socials:
