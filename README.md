@@ -1,8 +1,7 @@
-### Diego Santamaria
----
+## Diego Santamaria
 👋 I am experienced .NET Software Developer, passionated about Machine Learning.<br>🌱 Currently working on projects involving Azure with .NET & Airflow
 
-### Socials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dsantasot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-santamaria-sotelo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dsantasot) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6693116) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dsantasot) 
 
 ## Tech Stack
