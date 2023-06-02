@@ -1,5 +1,5 @@
 ### Hi there 👋
-## About Me:
+##
 👨🏻‍💻 I am experienced .NET Software Developer, passionated about Machine Learning.<br>🌱 Currently working on projects involving Azure with .NET & Airflow
 
 ### Socials:
